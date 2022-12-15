@@ -124,4 +124,4 @@ Git - это программа для контроля версий
 Если затем мы пробуем слить эти ветки, GIT сообщит о конфликте и предложит выбрать,какие же изменения записать.  
 (accept current change,accept incoming change,accept doth change, compare changes)
 
- 
+ ## Удаленные репозитории
