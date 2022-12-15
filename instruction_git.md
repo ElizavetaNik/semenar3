@@ -125,3 +125,5 @@ Git - это программа для контроля версий
 (accept current change,accept incoming change,accept doth change, compare changes)
 
  ## Удаленные репозитории
+ 
+ Удаленные репозитории нужны для ....
